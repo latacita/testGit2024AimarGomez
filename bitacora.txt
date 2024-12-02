@@ -17,3 +17,7 @@
 18      git merge SegundaRama     Surgen conflictosen bitacora.txt, se resuelven y se hace el commit.
 19      git checkout master
 20      git stash apply
+
+26      git tag PasosExtras
+27      git checkout master
+28      git cherry-pick 56fe81d93a4c6e0cc4d6bf1906fe769429d0f18b 
