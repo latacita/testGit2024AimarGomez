@@ -1,0 +1,12 @@
+
+Alumno: Aimar Gomez Diaz
+
+PASO            COMANDO                     NOTAS
+
+22          git push                        Salta conflicto ya que el repositorio local no está sincronizado con el remoto
+                                            Se realiza un pull, se arreglan los conflictos en bitacora.txt, se guardan los cambios
+                                            y se hace el push de nuevo.
+
+23          git checkout SegundaRama
+
+24          code pasosExtra.txt
