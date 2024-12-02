@@ -8,3 +8,5 @@
 ====== ============================ ================================
 1       git clone https://github.com/latacita/testGit2024AimarGomez.git
 2       code bitacora.txt
+
+4       git checkout -b PrimeraRama
