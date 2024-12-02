@@ -8,3 +8,12 @@
 ====== ============================ ================================
 1       git clone https://github.com/latacita/testGit2024AimarGomez.git
 2       code bitacora.txt
+
+
+8       git push origin SegundaRama
+9       git checkout master
+
+17      git checkout PrimeraRama
+18      git merge SegundaRama     Surgen conflictosen bitacora.txt, se resuelven y se hace el commit.
+19      git checkout master
+20      git stash apply
