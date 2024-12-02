@@ -10,3 +10,5 @@
 2       code bitacora.txt
 
 4       git checkout -b PrimeraRama
+
+6       git checkout -b SegundaRama
