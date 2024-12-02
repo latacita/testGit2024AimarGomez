@@ -1,8 +1,10 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Gomez Diaz, Aimar):                                      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1       git clone https://github.com/latacita/testGit2024AimarGomez.git
+2       code bitacora.txt
