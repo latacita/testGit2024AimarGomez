@@ -12,3 +12,10 @@
 4       git checkout -b PrimeraRama
 
 6       git checkout -b SegundaRama
+
+13      git checkout SegundaRama
+
+14                               La fusion se realizaría de forma recursiva, ya que ha habido cambios en dicha rama
+
+15                               Esta se haría fast-forward ya que no han habido cambios guardados en main.
+
